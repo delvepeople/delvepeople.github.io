@@ -4,6 +4,11 @@
 
 $(document).ready(function() {
     console.log("Hello World");
+ 
+
+        setTimeout(function() {
+            $('img').fadeIn(500);
+        }, 500);
     /*
     $('#nav').find('> a:first-of-type > span').hide();
     $('#nav').find('> a:nth-of-type(2)').hide();
