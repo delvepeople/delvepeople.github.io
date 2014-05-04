@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c504221-64e0-4521-ac00-2ec320c8ae40" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/script.js" afterPath="$PROJECT_DIR$/js/script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-    </list>
+    <list default="true" id="7c504221-64e0-4521-ac00-2ec320c8ae40" name="Default" comment="" />
     <ignored path="delvepeople.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,10 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="13" selection-start="222" selection-end="222" vertical-scroll-proportion="-3.125" vertical-offset="30" max-vertical-offset="345">
+            <state line="7" column="13" selection-start="222" selection-end="222" vertical-scroll-proportion="0.26785713" vertical-offset="30" max-vertical-offset="345">
               <folding />
             </state>
           </provider>
@@ -47,10 +43,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="1" selection-start="63" selection-end="63" vertical-scroll-proportion="0.09463722" vertical-offset="15" max-vertical-offset="525">
+            <state line="8" column="18" selection-start="161" selection-end="161" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="525">
               <folding />
             </state>
           </provider>
@@ -252,13 +248,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="13" selection-start="222" selection-end="222" vertical-scroll-proportion="-3.125" vertical-offset="30" max-vertical-offset="345">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="0" selection-start="107" selection-end="107" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465">
@@ -270,7 +259,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="1" selection-start="63" selection-end="63" vertical-scroll-proportion="0.09463722" vertical-offset="15" max-vertical-offset="525">
+        <state line="8" column="18" selection-start="161" selection-end="161" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="525">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="13" selection-start="222" selection-end="222" vertical-scroll-proportion="0.26785713" vertical-offset="30" max-vertical-offset="345">
           <folding />
         </state>
       </provider>
