@@ -9,6 +9,15 @@ body {
     background: rgb(255, 0, 106);
     height: 200px;
     width: 200px;
+    border: solid 5px rgb(34, 34, 34);
+    border-radius: 10px;
+
+    -webkit-transition: 2s;
+    -transition: 2s;
+}
+
+#hello:hover {
+    background: rgb(14, 130, 255);
 }
 
 img:first-of-type {
