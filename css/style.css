@@ -1,4 +1,30 @@
-img {
+body {
+    height: 4000px;
+    background: rgb(107, 255, 76);
+}
+
+#hello {
+    font: 20px 'Open Sans', sans-serif;
+    color: rgb(149, 255, 0);
+    background: rgb(255, 0, 106);
+    height: 200px;
+    width: 200px;
+}
+
+img:first-of-type {
+    position: absolute;
+    top: 20px;
+    left: 150px;
     display: none;
+    height: 200px;
+    z-index: -1;
+}
+
+img:nth-of-type(2) {
+    position: relative;
+    z-index: -2;
+}
+
+img {
     height: 200px;
 }
